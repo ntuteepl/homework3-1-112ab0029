@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int digitSum(int n) {
     int sum = 0;
     while (n > 0) {
